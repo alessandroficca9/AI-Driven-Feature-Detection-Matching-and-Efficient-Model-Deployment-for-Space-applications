@@ -1,6 +1,10 @@
-# AI-Driven-Feature-Detection-Matching-and-Efficient-Model-Deployment-for-Space-applications
+<div align="center">
 
-## Master's Degree Thesis in Data Science and Engineering at Politecnico di Torino, in collaboration with AIKO company.
+# AI-Driven Feature Detection Matching and Efficient Model Deployment for Space Applications  
+
+## Master's Degree Thesis in Data Science and Engineering at Politecnico di Torino, in collaboration with AIKO.
+
+</div>
 
 ## Abstract
 In computer vision, the Feature Detection and Matching (FDM) task has been widely developed and innovated over the years, achieving the potential to be applied in many use cases. Its primary objective is to extract and establish accurate and reliable feature correspondences between different images, forming the foundations for various applications, including autonomous visual navigation, 3D reconstruction, object detection and tracking. 
